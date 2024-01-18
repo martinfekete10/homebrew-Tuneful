@@ -6,6 +6,6 @@ class Tuneful < Formula
   version "1.2.0"
 
   def install
-    bin.install "Tuneful"
+    bin.install "Tuneful.app"
   end
 end
